@@ -1,0 +1,11 @@
+{
+    "_comment": "图书馆自动预约配置文件",
+    "username": "2442151727",
+    "password": "Wcx18862538339@",
+    "date": "auto",
+    "room": "第一自习室",
+    "start_time": "16:00",
+    "seat": "",
+    "log_file": "auto_book.log",
+    "webhook_url": ""
+}

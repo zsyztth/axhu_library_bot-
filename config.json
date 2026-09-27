@@ -1,0 +1,10 @@
+{
+    "_comment": "图书馆自动预约配置文件 — 填好你的信息",
+    "username": "2442151727",
+    "password": "",
+    "date": "auto",
+    "room": "第二自习室",
+    "start_time": "10:00",
+    "log_file": "auto_book.log",
+    "webhook_url": ""
+}

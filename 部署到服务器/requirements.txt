@@ -1,0 +1,12 @@
+# 图书馆自动预约系统 — Python 依赖
+# 服务器安装: pip install -r requirements.txt
+# 本地开发: 把 opencv-python-headless 换成 opencv-python
+
+requests>=2.32
+pycryptodome>=3.22
+beautifulsoup4>=4.13
+ddddocr>=1.6.1
+opencv-python-headless>=4.10
+numpy>=2.0
+Pillow>=10.0
+onnxruntime>=1.26

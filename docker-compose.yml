@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  library-bot:
+    build: .
+    container_name: library-bot
+    volumes:
+      - ./config.json:/app/config.json:ro
+      - ./auto_book.log:/app/auto_book.log
+    environment:
+      - TZ=Asia/Shanghai
+    restart: "no"  # Run once, cron handles scheduling

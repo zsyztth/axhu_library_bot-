@@ -1,0 +1,15 @@
+{
+    "_comment": "Library Seat Booking - User Configuration",
+    "_instructions": "Copy this file to config.json and fill in your details",
+    "username": "",
+    "password": "",
+    "room": "",
+    "start_time": "",
+    "seat": "",
+    "date": "auto",
+    "webhook_url": "",
+    "hmac_secret": "",
+    "vision_api_key": "",
+    "vision_base_url": "https://ark.cn-beijing.volces.com/api/v3/chat/completions",
+    "vision_model": "doubao-seed-2-0-code-preview-260215"
+}
